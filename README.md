@@ -8,11 +8,17 @@ time. The counter supports the following operations in the specified time
 complexity.
 
 Create O(n)
+
 Reduce(ID, m) O(log n)
+
 Increase(ID, m) O(log n)
+
 Count(ID) O(log n)
+
 Inrange(ID1, ID2) O(log n + s) where s is the number of IDs in the range.
+
 Next(ID) O(log n)
+
 Previous(ID) O(log n)
 
 Input Format and execution
