@@ -22,10 +22,15 @@ Input Format and execution
  file-name has the input format as
  
  n
+ 
  ID1 count1
+ 
  ID2 count2
+ 
  ...
+ 
  IDn countn
+ 
  
  
  
